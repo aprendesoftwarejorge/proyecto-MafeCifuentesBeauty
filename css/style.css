@@ -20,8 +20,9 @@
 
 /* Novedades */
 #novedades{
-    background-color:#ffb8d3 !important;
-    
+     background-color:#fff !important;
+    /* width: 100%;
+    height: 50px; */
 
 
 }
@@ -29,10 +30,36 @@
 #novedades .titulo{
     width: 100%;
     text-align: center;
-    color: #fff;
+    color: #000000;
     font-weight: 700;
     padding-top: 5px;
     
+}
+#Shampoo .titulo{
+    width: 100%;
+    text-align: center;
+    color: #0e0e0e;
+    font-weight: 700;
+    /* padding-top: 55px; */
+
+    
+}
+#Acondicionador .titulo{
+    width: 100%;
+    text-align: center;
+    color: #0e0e0e;
+    font-weight: 700;
+    /* padding-top: 55px; */
+
+   }    
+#Mantequilla .titulo{
+    width: 100%;
+    text-align: center;
+    color: #0e0e0e;
+    font-weight: 700;
+    /* padding-top: 55px; */
+
+
 }
 
 body{
@@ -150,4 +177,9 @@ body{
 #pago .titulo{
     width: 100;
     text-align: center;
+}
+
+.img-alto{
+    /* width: 90%; */
+    height: 550px !important;
 }
