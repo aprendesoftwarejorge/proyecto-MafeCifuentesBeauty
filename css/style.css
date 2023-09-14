@@ -19,7 +19,8 @@
 
 /* dimensionar las images del carousel */
 .alto-img{
-    height: 620px !important;
+    /* height: 850px !important; */
+    background-size: cover;
 }
 
 /* Novedades */
@@ -34,7 +35,7 @@
 #novedades .titulo{
     width: 100%;
     text-align: center;
-    color: #000000;
+    color: #fffbfb;
     font-weight: 700;
     padding-top: 5px;
     
@@ -77,7 +78,7 @@ body{
 }
 
 #page-footer a{
-    color: #ffb8d3;
+    color: #ffffff;
 }
 
 #page-footer .ftcontainer{
@@ -117,7 +118,7 @@ body{
 }
 
 .ft-social{
-    color: #ffb8d3;
+    color: #ffffff;
     border-radius: 100%;
     height: auto;
     width: 50px;
@@ -146,20 +147,20 @@ body{
 }
 
 .footer__link:nth-child(1){
-    border-left: 2px solid #ffb8d3;
+    border-left: 2px solid #ffffff;
 }
 .footer__link:nth-child(2){
-    border-left: 2px solid #ffb8d3;
+    border-left: 2px solid #ffffff;
 }
 .footer__link:nth-child(3){
-    border-left: 2px solid #ffb8d3;
+    border-left: 2px solid #ffffff;
 }
 
 .footer-credits{
     width: 100%;
     color: #fff;
     text-align: center;
-    background-color: #dc83c4;
+    background-color: #ffffff;
 }
 
 /* pagina contacto */
